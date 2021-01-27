@@ -1,6 +1,6 @@
 body{
     overflow-x: hidden;
-    background: pink;
+    background:pink;
 }
 ul{
     display: flex;
@@ -51,3 +51,9 @@ footer{
     text-align: center;
     margin-top: 100%;
  }
+.pig{
+    height: 40vh;
+}
+.show{
+    display: flex;
+}
