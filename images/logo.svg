@@ -1,43 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="100" viewBox="0 0 360 100">
   <defs>
     <style>
-      .cls-1, .cls-6 {
-        fill: #f80438;
+      .cls-1 {
+        fill: #0e9d70;
       }
 
       .cls-2 {
-        fill: #0cc4eb;
+        fill: #12cdb9;
       }
 
       .cls-3 {
-        fill: #a5f67a;
-      }
-
-      .cls-4, .cls-5 {
-        font-size: 25px;
-        fill: #fff;
-        text-anchor: middle;
+        fill: #11e4ab;
       }
 
       .cls-4 {
+        font-size: 25px;
+        text-anchor: middle;
+        fill: #050505;
         font-family: "Arial Rounded MT Bold";
+        text-transform: uppercase;
       }
 
       .cls-5 {
-        font-family: "Franklin Gothic Heavy";
-      }
-
-      .cls-6 {
-        fill-rule: evenodd;
+        fill: #e3a8e0;
       }
     </style>
   </defs>
-  <ellipse class="cls-1" cx="58" cy="50.5" rx="44" ry="42.5"/>
-  <ellipse id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-2" cx="98" cy="50.5" rx="44" ry="42.5"/>
-  <ellipse id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-3" cx="142" cy="50.5" rx="44" ry="42.5"/>
-  <text id="H" class="cls-4" x="36.333" y="59.333"><tspan x="36.333">H</tspan></text>
-  <text id="I" class="cls-5" x="83.333" y="59.333"><tspan x="83.333">I</tspan></text>
-  <path id="Shape_1_copy_2" data-name="Shape 1 copy 2" class="cls-6" d="M216.892,9.781c23.227,7.143,36.463,31.121,29.563,53.556s-31.321,34.832-54.548,27.689-36.463-31.121-29.564-53.556S193.665,2.638,216.892,9.781ZM258.806,27.9l0.845,0.27s5.4,23.982-.808,43.377c-5.813,18.175-23.253,31.843-23.253,31.843l-0.845-.27s22.074-13.659,28.013-32.226C268.847,51.854,258.806,27.9,258.806,27.9ZM255.17,39.334l0.738,0.236s4.709,20.927-.7,37.851c-5.073,15.86-20.291,27.787-20.291,27.787l-0.737-.235s19.261-11.919,24.444-28.121C263.932,60.24,255.17,39.334,255.17,39.334Zm7.565-23.83,0.952,0.3s6.082,27.027-.91,48.887c-6.552,20.483-26.206,35.888-26.206,35.888l-0.953-.3S260.5,84.884,267.189,63.959C274.051,42.5,262.735,15.5,262.735,15.5Z"/>
-  <text id="E" class="cls-4" x="138.333" y="60.333"><tspan x="138.333">E</tspan></text>
-  <text id="B" class="cls-4" x="205.333" y="60.333"><tspan x="205.333">B</tspan></text>
+  <ellipse class="cls-1" cx="45" cy="52.5" rx="39" ry="39.5"/>
+  <ellipse id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-2" cx="78" cy="52.5" rx="39" ry="39.5"/>
+  <ellipse id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-3" cx="108" cy="52.5" rx="39" ry="39.5"/>
+  <text id="sreyhieb_dy" data-name="sreyhieb  dy" class="cls-4" x="236.333" y="61.667"><tspan x="236.333">sreyhieb<tspan class="cls-5">  <tspan class="cls-2">dy</tspan></tspan></tspan></text>
 </svg>
