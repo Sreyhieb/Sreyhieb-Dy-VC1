@@ -28,12 +28,12 @@ ul li a{
     margin-left:5% ;
     margin-top:10% ;
 }
-.box-right {
+ .box-right {
     margin-top: 10%;
     margin-left: 55%;
     margin-top: -47%;
    
-}
+} 
 .websize {
     display: flex;
     justify-content: flex-end;
@@ -55,5 +55,10 @@ footer{
     color:black;
     text-transform: uppercase;
     text-align: center;
-    margin-top: 100%;
+    margin-top: 20%;
+ }
+ .box-text{
+    margin-top: 10%;
+    margin-left: 55%;
+    margin-top: -47%;
  }
