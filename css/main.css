@@ -25,9 +25,6 @@ ul li a{
     height: 100vh;
     margin: -350px;
 }
-.one{
-    margin-top: 100px;
-}
 .websize {
     display: flex;
     justify-content: flex-end;
@@ -43,14 +40,8 @@ ol a {
     font-size: 40px;
     color: rgb(11, 11, 144);
 }
-
-
-.show{
-    display: flex;
-}
-
 /*  */
-
+/* about */
 .all{
    
     display: flex;
@@ -62,9 +53,9 @@ ol a {
 .photo{
     width:30%;
    
-}
+} 
 
-.box-text{
+.box-text1{
     width:65%;
   
    padding: 10px;
@@ -73,11 +64,14 @@ ol a {
     border-radius: 10px;
     line-height:1.9;
 }
-.box-text p{
+.box-text1 p{
     color:rgba(15, 74, 82, 0.753);
     font-family: sans-serif;
   
     
+}
+.one{
+    margin-top: 100px;
 }
 .one{
     text-align: center;
@@ -85,11 +79,11 @@ ol a {
 
     color: darkblue;
 }
+/*  */
+/* cv */
 button{
     text-align: center;
     margin-left: 450px;
-   
-    
 }
 .btn{
     width: 20%;
@@ -111,14 +105,39 @@ button{
     display: flex;
     justify-content: center;
 }
+/* cv and contact */
 footer{
     background: rgb(88, 94, 105);
-    padding: 30px;
-    color:black;
+    padding: 35px;
     text-transform: uppercase;
     text-align: center;
-    margin-top: 20%;
+    margin-top:15%;
+ }
+
+/* contact */
+.box-text{
+    margin-top: 10%;
+    margin-left: 55%;
+    margin-top: -47%;
+ }
+ .blog-T{
+     display: flex;
+     justify-content: center;
+     margin-top:50px;
+ }
+ .contain-text{
+    height: 100vh;
+    margin: -50px;
+    margin-left:5% ;
+    margin-top:10% ;
 }
+ .box-right {
+    margin-top: 10%;
+    margin-left: 55%;
+    margin-top: -47%;
+   
+} 
+/* CV */
 @media(max-width:700px) {
     .all {
         flex-direction: column;
@@ -129,9 +148,6 @@ footer{
     .photo{
         width: 100%;
     }
-    
-}
-@media(max-width:700px) {
     .logo-container {
         flex-direction: column;
     }
@@ -141,9 +157,17 @@ footer{
     .photo{
         width: 100%;
     }
-    
+    .contain {
+        flex-direction: column;
+    }
+    .box-right {
+       width: 100%;
+    }
+    .photo{
+        width: 100%;
+    }
 }
 
-
+ 
 
 

@@ -94,19 +94,18 @@ footer{
     text-align: center;
     margin-top:15%;
  }
- .text:hover{
-     background: rgba(19, 155, 218, 0.774);
- }
- @media(max-width:678px) {
-    .coloum {
-        flex-direction: column;
-        
+ @media(max-width:700px) {
+    @media(max-width:600px){
+        .coloum{
+            flex-direction:column;
+        }
+        .coloum{
+            width: 100px;
+        }
+        .texts{
+            width: 100px;
+        }
     }
-   .text{
-        height: auto;
-        width: 100%;
-    }
-    
 }
 
 
