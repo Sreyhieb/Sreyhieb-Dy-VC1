@@ -62,3 +62,15 @@ footer{
     margin-left: 55%;
     margin-top: -47%;
  }
+ .blog-T{
+     display: flex;
+     justify-content: center;
+     margin-top:50px;
+ }
+ .text{
+     display: flex;
+     justify-content: center;
+     text-transform: uppercase;
+     background: rgb(90, 190, 194);
+ }
+ 
